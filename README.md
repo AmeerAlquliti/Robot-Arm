@@ -1,18 +1,17 @@
-# 🦾 Modular Robotic Arm Design (Onshape)
+# Modular Robotic Arm Design (Onshape)
 
 This repository contains a high-fidelity 3D model of a robotic arm, designed using **Onshape**. The project features a vertical-lift architecture and a custom-engineered gear-driven gripper for precise object manipulation.
 
 ---
 
-## 📸 Design Gallery
+##  Design Gallery
 
-Click the links below to review the design from different angles:
-* 🔍 **[Click here to review the Side View Profile]([{715C880C-63AB-4DA3-AECC-6BECBA3C6C9C}.png](https://github.com/AmeerAlquliti/Robot-Arm/blob/main/9b9097ed-cd72-4af0-aeae-b71fb54fb390.png))**
-* 🔍 **[Click here to review the Front & Vertical Alignment]({D7D3B939-0A2C-47A4-9F34-BA57C0822526}.png)**
+* 🔍 **[Click here to review the Side View Profile](https://github.com/AmeerAlquliti/Robot-Arm/blob/main/9b9097ed-cd72-4af0-aeae-b71fb54fb390.png)**
+* 🔍 **[Click here to review the Front & Vertical Alignment](https://github.com/AmeerAlquliti/Robot-Arm/blob/main/6b413985-9be8-484c-9fad-dbf4286e64f3.png)**
 * 🔍 **[Click here to review the Detailed Gripper Mechanism](https://github.com/AmeerAlquliti/Robot-Arm/blob/main/image.png)**
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Cloud-Native CAD:** Designed entirely in **Onshape** for full parametric control and easy version tracking.
 * **Gear-Synchronized Gripper:** Employs a circular gear mechanism to ensure the jaws open and close symmetrically.
@@ -21,7 +20,7 @@ Click the links below to review the design from different angles:
 
 ---
 
-## 🛠️ Technical Specifications
+##  Technical Specifications
 
 * **Software:** Onshape 3D CAD.
 * **Mechanism:** Parallel-jaw gripper with internal gear drive.
@@ -30,21 +29,16 @@ Click the links below to review the design from different angles:
 
 ---
 
-## 🔗 Live Interactive Link
 
-You can view the live interactive 3D model, inspect the parts, and export files directly from Onshape here:
-
-👉 **[Insert Your Onshape Share Link Here]**
 
 ---
 
 ## 📂 Repository Content
 
 * `/Images`: Contains high-resolution screenshots of the design.
-* `/CAD_Files`: STL and STEP exports for manufacturing.
+
 * `README.md`: Project overview and documentation.
 
 ---
 
-## 📜 License
-This project is shared under the **MIT License**. Feel free to use and adapt the design for your own projects!
+
