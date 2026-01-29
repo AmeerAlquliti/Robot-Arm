@@ -7,7 +7,7 @@ This repository contains a high-fidelity 3D model of a robotic arm, designed usi
 ## 📸 Design Gallery
 
 Click the links below to review the design from different angles:
-* 🔍 **[Click here to review the Side View Profile]({715C880C-63AB-4DA3-AECC-6BECBA3C6C9C}.png)**
+* 🔍 **[Click here to review the Side View Profile]([{715C880C-63AB-4DA3-AECC-6BECBA3C6C9C}.png](https://github.com/AmeerAlquliti/Robot-Arm/blob/main/9b9097ed-cd72-4af0-aeae-b71fb54fb390.png))**
 * 🔍 **[Click here to review the Front & Vertical Alignment]({D7D3B939-0A2C-47A4-9F34-BA57C0822526}.png)**
 * 🔍 **[Click here to review the Detailed Gripper Mechanism](https://github.com/AmeerAlquliti/Robot-Arm/blob/main/image.png)**
 ---
